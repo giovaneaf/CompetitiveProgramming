@@ -1,1 +1,1 @@
-Some solutions for some problems ^^
+Solution and discussion for some competitive programming problems
