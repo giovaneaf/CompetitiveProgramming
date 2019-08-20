@@ -6,13 +6,14 @@ the floor division of x/i because there are this number of multiples of i in thi
 number by i because you are computing the sum of divisors and not how many times it appears in the range.
 So you can compute for the interval [a, b] just by computing f(b) - f(a-1) of this first part.
 The numbers greater than sqrt(b) are tricky to compute:
-You can compute it by using arithmetic progression formula of the interval [max(sqrt(b), (a-1)/i), max(sqrt(b), b/i)]
+You can compute it by using arithmetic progression formula of the interval(max(sqrt(b), (a-1)/i), max(sqrt(b), b/i)]
 this is because you are computing all the complementary factors that are not added in this formula.
 For example: when a = 5 and b = 13 then:
-if i = 1 you compute the interval [5, 13] which are getting the factors 5, 6, 7, .. , 13.
-if i = 2 you compute the interval [3, 6] because you are computing the complementary factors of the 
-following even numbers: 6, 8, 10 and 12.
-if i = 3 you compute the interval [3, 4] because there are only two numbers multiple of 3 inside the range (3*3 and 3*4)
+if i = 1 you compute the interval [5, 13] which are getting the factors (5*1), (6*1), (7*1), .. , (13*1).
+if i = 2 you compute the interval [4, 6] because you are computing the complementary factors of the 
+following even numbers: 8(4*2), 10(5*2) and 12(6*2).
+if i = 3 you compute the interval [4, 4] because there are only one number that has a factor 4 that's 
+not counted before (3*4) = 12.
 Hope this helps a little bit!
 */
 
