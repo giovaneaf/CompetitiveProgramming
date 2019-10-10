@@ -1,3 +1,13 @@
+/*
+Given n, when you choose a jump with size x then you can simulate it as you're jumping gcd(n, x), try it out.
+The number of possible gcd's for n is the #divisors of n.
+A good aproximation for #divisors for n is the cube root of n.
+Given the gap = gcd(n, x) you can simulate for each starting point from 0 to gap-1 and check if you'll pass only
+in rocks, if at least one starting point is true then the answer is 1 otherwise is 0, store this gap in a memoization
+table. (This step requires O(n)).
+Since there are approximately cube root of n different gaps the complexity is O(n*n^(1/3)) = O(n^(4/3)) and this is
+enough.
+*/
 #include <bits/stdc++.h>
 
 #define mp(a, b) make_pair(a, b)

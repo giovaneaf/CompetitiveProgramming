@@ -1,3 +1,6 @@
+/*
+Simulate the game and check the winner.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

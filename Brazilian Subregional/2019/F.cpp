@@ -1,3 +1,9 @@
+/*
+Binary search the answer, then for each mid value(x) compute the union rectangle area 
+(I used sweep line + segment/interval tree) of the preserved area and check if it's higher or equal to
+the given lower bound.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

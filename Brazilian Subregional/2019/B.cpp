@@ -1,3 +1,7 @@
+/*
+If at least one number is higher than the first the answer is N otherwise is Y.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

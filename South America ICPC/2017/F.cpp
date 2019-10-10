@@ -1,3 +1,13 @@
+/*
+Sort all by beauty, for example, and make coordinate compression for the fortune.
+Then you can use the fortune inside a segment tree.
+Then you sweep from less beauty to high and add to segment tree in current fortune fi (compressed).
+Because of this sweep you need to only accept people with less fortune or equal than fi and then
+no argument will occur.
+To know which value should be added to segment tree at fi (maximum donation) you query for the maximum value
+in segment tree range from [0, fi-1] and then you update with di + this maximum value.
+*/
+
 #include <bits/stdc++.h>
 
 #define mp(a, b) make_pair(a, b)

@@ -1,3 +1,6 @@
+/*
+The formula is ceiling of v*n*i/10 which can be computed with (v*n*i+9)/10.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

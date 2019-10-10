@@ -1,3 +1,15 @@
+/*
+dp(i, p, e) where i is the current gate number, p is the produced value (true or false) and e is the expected boolean
+value (true or false). The answer will be (0-index based) dp(0, false, true) + dp(0, true, false).
+The transitions in dp are:
+if it's an input then it's 1 if and only if p == e, it's 0 otherwise.
+if the gate is stucked at value (s) and p != s then the answer is 0.
+if the gate is stucked at value (s) and p == s then the answer will be the sum of multiplication of it's 2 gates with any
+combination from p (because it's stucked, so doesn't matter the value produced) and any line of the nand table that 
+produces(e).
+if the gate isn't stucked then the answer will be the sum of multiplication of it's 2 gates with any line of the nand table that produces(p) and any line of the nand table that produces(e).
+*/
+
 #include <bits/stdc++.h>
 
 #define MOD 1000000007

@@ -1,3 +1,7 @@
+/*
+You need to compute the number of odd numbers in n-th pascal triangle line.
+The answer is 2^(nº of bits turned on in binary representation of n).
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -25,46 +29,23 @@ typedef pair<int, bool> ib;
 #define INFLL 1000000000000000000LL
 #define EPS 1e-9
 
-ll p[MAXN];
-int n, c, t;
-
-bool can(ll x)
-{
-	int cc = 0;
-	int i = 0;
-	while(i < n)
-	{
-		cc++;
-		ll acc = 0LL;
-		while(i < n && (acc+p[i]+t-1)/t <= x)
-		{
-			acc += p[i++];
-		}
-	}
-	return cc <= c;
-}
-
 int main()
 {
-	while(cin >> n >> c >> t)
+	long long n;
+	while(cin >> n)
 	{
-		ll mx = -1;
-		FOR(i, 0, n)
+		ll bits = 0LL;
+		for(ll i = 0; (1LL << i) <= n; ++i)
 		{
-			cin >> p[i];
-			mx = max(mx, p[i]);
+			if(n & (1LL << i))
+			{
+				bits++;
+			}
 		}
-		ll l = (mx+t-1)/t;
-		ll r = 1e9;
-		while(r - l > 1)
-		{
-			ll mid = (r+l)/2LL;
-			if(can(mid))
-				r = mid;
-			else
-				l = mid+1;
-		}
-		printf("%lld\n", can(l) ? l : r);
+		ll ans = 1LL;
+		FOR(i, 0, bits)
+			ans *= 2LL;
+		printf("%lld\n", ans);
 	}
 	return 0;
 }

@@ -1,3 +1,7 @@
+/*
+Binary search the answer and for each mid value(x) check if with this time (x),
+C or less people can eat all the popcorn. Then update the pointers in binary search.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

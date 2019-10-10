@@ -1,3 +1,8 @@
+/*
+Compute the minimum spanning tree then for each query (u, v) remove the highest cost edge between u and v path
+to add the given edge. You can only remove the edges between (u, v) path because any other edge will disconnect the
+graph. You can compute the highest cost edge between u and v path with LCA with binary lifting in O(log(n)).
+*/
 #include <bits/stdc++.h>
 
 using namespace std;

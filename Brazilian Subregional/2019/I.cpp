@@ -1,3 +1,9 @@
+/*
+Floyd Warshall can be used to solve this problem because you can choose the order of vertices
+in adjacency matrix then you can compute all paths passing from at least a certain temperature.
+Because the queries are offline you can store all and sort it from temperature then you can
+answer it while you're running the Floyd Warshall algorithm.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

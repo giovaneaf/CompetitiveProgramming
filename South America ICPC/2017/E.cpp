@@ -1,3 +1,12 @@
+/*
+You can use dp(i, j) where i is the position and j is the current rest of division.
+Note that you can compute the modulo M of a number n as follows:
+For example if n = 257 and M = 25 you can compute the modulo this way:
+(((2*10+5)%25)*10+7)%25 = 7
+So you can store the current modulo in this way in dp and check if with this current modulo
+and at that position is possible to generate a number which is multiple of M.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;

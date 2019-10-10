@@ -1,3 +1,24 @@
+/*
+Used union find to store vertex in the same component.
+If two circles intersect (the distance between centers are less than equal to sum of radius of both) then
+they're in the same component (union this circles).
+Create more 4 vertex for each border. I used this numbers:
+ _______
+|		|
+|		|
+|		|
+ --------
+1001 is vertical left rectangle border
+1002 is horizontal top rectangle border
+1003 is vertical right rectangle border
+1004 is horizontal bottom rectangle border
+
+Check if any circle intersect with borders (0, m) in x and (0, n) in y and union them.
+Then you're trapped if any of this pairs belong to the same set:
+(1001, 1004), (1001, 1003), (1002, 1003), (1002, 1004).
+otherwise exists a path without being caught and he'll use this path.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

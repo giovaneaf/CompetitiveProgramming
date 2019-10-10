@@ -1,3 +1,10 @@
+/*
+This problem is the assigment problem, but you need to note that you're multiplying the values and
+you are asked to maximize the answer. You can solve the multiplication problem by applying the logarithm
+because log(a*b) = log(a)+log(b), so you can treat it as sum (as in the assignment problem). The other issue is
+that you need to maximize the answer, you can change it by negating all values then you need to minimize it and
+you have the assignment problem and this problem can be solved with the Hungarian Algorithm or with min cost flow.
+*/
 #include <bits/stdc++.h>
 using namespace std;
  

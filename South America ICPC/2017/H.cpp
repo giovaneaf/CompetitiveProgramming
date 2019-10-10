@@ -1,3 +1,7 @@
+/*
+Just compute the sum of max(b[i]-a[i], 0) for every i (only 3)
+*/
+
 #include <iostream>
  
 using namespace std;

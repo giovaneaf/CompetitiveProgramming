@@ -1,3 +1,10 @@
+/*
+Compute the height of every node in the tree and mark it's path.
+Then add every single node to a priority queue sorted by height.
+Get the top of the priority queue if it's not visited then add it to the answer and mark all nodes in the path as visited.
+Remove from priority queue K times (Check if the priority queue is empty).
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
