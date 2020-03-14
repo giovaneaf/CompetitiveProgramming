@@ -14,6 +14,9 @@ void buscaBinaria(ll maiorValor)
 	direita = maiorValor;		// ponteiro da direita
 	int numeroDeIter = 0;		// conta o número de iterações
 	printf("Valor a ser adivinhado = %lld...\n", numeroEscolhido);
+	getchar();
+	printf("Pressione qualquer tecla para continuar e aparecer as iteracoes...\n", numeroEscolhido);	
+	getchar();
 	while(direita >= esquerda)
 	{
 		numeroDeIter++;
@@ -39,9 +42,11 @@ int main()
 {
 	srand(time(NULL));
 	ll maiorValor;
+	printf("Insira o maior valor da busca binaria: ");
 	while(cin >> maiorValor)
 	{
 		buscaBinaria(maiorValor);
+		printf("Insira o maior valor da busca binaria: ");
 	}
 	return 0;
 }
