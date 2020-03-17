@@ -106,23 +106,24 @@ int main()
 		{
 			if(zoo[i])
 			{
-				sort(binfo[i].begin(), binfo[i].end());
-				if(binfo[i][0].first == 0)
+				sort(binfo[i].begin(), binfo[i].end());	// sort to check if any animal cycle
+				if(binfo[i][0].first == 0)				// if animal doesn't cycle in this zoo
 				{
-					int T = binfo[i][0].second;
+					// time is not an unkown, CRT isn't valid not modular equation
+					int T = binfo[i][0].second;			// they can only met in this time at this zoo
 					bool can = true;
 					for(int j = 1; j < binfo[i].size(); ++j)
 					{
-						if(binfo[i][j].first == 0)
+						if(binfo[i][j].first == 0)	// if animal doesn't cycle in this zoo
 						{
-							if(T != binfo[i][j].second)
+							if(T != binfo[i][j].second)	// then it's only possible if they met in the same T
 							{
 								can = false; break;
 							}
 						}
-						else
+						else						// if animal cycle in this zoo
 						{
-							int nT = T - binfo[i][j].second;
+							int nT = T - binfo[i][j].second;	// check if animal met at the same zoo at time T
 							if(nT < 0 || (nT%binfo[i][j].first > 0))
 							{
 								can = false; break;
@@ -130,7 +131,7 @@ int main()
 							
 						}
 					}
-					if(can && (time == -1LL || (time > T)))
+					if(can && (time == -1LL || (time > T))) // update answer if they met
 					{
 						time = (ll) T;
 						zooTime = i;
@@ -140,11 +141,11 @@ int main()
 				{
 					for(int j = 0; j < b; ++j)
 					{
-						a[j+1] = (ll) binfo[i][j].second;
-						n[j+1] = (ll) binfo[i][j].first;
+						a[j+1] = (ll) binfo[i][j].second; 	// first time in zoo i
+						n[j+1] = (ll) binfo[i][j].first; 	// modulo = cycle length
 					}
-					ll crt = CRT();
-					if(crt != -1LL && (time == -1LL || (time > crt)))
+					ll crt = CRT();							// compute the time via crt
+					if(crt != -1LL && (time == -1LL || (time > crt)))	// update answer if they met
 					{
 						time = crt;
 						zooTime = i;
