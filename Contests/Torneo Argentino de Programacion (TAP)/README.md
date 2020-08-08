@@ -1,1 +1,1 @@
-https://codeforces.com/gym/101490
+http://torneoprogramacion.com.ar/problemas-de-ediciones-anteriores/

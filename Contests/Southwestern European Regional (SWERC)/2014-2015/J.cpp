@@ -1,8 +1,3 @@
-/*
-	Fast Fourier Transform (FFT) - Multiplying Polynomials
-	code from https://cp-algorithms.com/algebra/fft.html
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
