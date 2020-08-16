@@ -1,14 +1,18 @@
+typedef long long ll;
+
 struct Edge
 {
-    int from, to, capacity, cost;
+    int from, to, capacity;
+	ll cost;
 };
 
-vector<vector<int>> adj, cost, capacity;
+vector<vector<int>> adj, capacity;
+vector<vector<ll>> cost;
 
-const int INF = 1e9;
+const ll INFLL = 1000000000000000000LL;
 
-void shortest_paths(int n, int v0, vector<int>& d, vector<int>& p) {
-    d.assign(n, INF);
+void shortest_paths(int n, int v0, vector<ll>& d, vector<int>& p) {
+    d.assign(n, INFLL);
     d[v0] = 0;
     vector<bool> inq(n, false);
     queue<int> q;
@@ -32,9 +36,9 @@ void shortest_paths(int n, int v0, vector<int>& d, vector<int>& p) {
     }
 }
 
-int min_cost_flow(int N, vector<Edge> edges, int K, int s, int t) {
+ll min_cost_flow(int N, vector<Edge>& edges, int K, int s, int t) {
     adj.assign(N, vector<int>());
-    cost.assign(N, vector<int>(N, 0));
+    cost.assign(N, vector<ll>(N, 0));
     capacity.assign(N, vector<int>(N, 0));
     for (Edge e : edges) {
         adj[e.from].push_back(e.to);
@@ -45,11 +49,12 @@ int min_cost_flow(int N, vector<Edge> edges, int K, int s, int t) {
     }
 
     int flow = 0;
-    int cost = 0;
-    vector<int> d, p;
+    ll cost = 0;
+    vector<int> p;
+	vector<ll> d;
     while (flow < K) {
         shortest_paths(N, s, d, p);
-        if (d[t] == INF)
+        if (d[t] == INFLL)
             break;
 
         // find max flow on that path
@@ -62,7 +67,7 @@ int min_cost_flow(int N, vector<Edge> edges, int K, int s, int t) {
 
         // apply flow
         flow += f;
-        cost += f * d[t];
+        cost += (ll) f * d[t];
         cur = t;
         while (cur != s) {
             capacity[p[cur]][cur] -= f;
