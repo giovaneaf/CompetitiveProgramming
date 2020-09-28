@@ -145,6 +145,7 @@ NOTE: The problems that are marked with yellow check mark will give Presentation
 87 - Horrible Quiz(H)
 
 -----Asia Jakarta 2014-----
+Link: https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=643
 88 - Electric Bike(C)
 89 - Kevin's Problem(D)
 90 - Cutting Tree (E)
