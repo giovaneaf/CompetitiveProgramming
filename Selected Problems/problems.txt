@@ -1,86 +1,87 @@
 The majority of the solutions to the problems are avaible in this repository
 (search in Contests folder or URI folder)
 
-If the problem have * it may be very hard (may be others too)
+If the problem have * it may be hard (may be others too)
 
-TAP 2012:
+-----TAP 2012-----
 1 - Cantor - https://www.spoj.com/problems/TAP2012C/
 2 - Designing T-Shirts - https://www.spoj.com/problems/TAP2012D/
 3 - Emma s Domino - https://www.spoj.com/problems/TAP2012E/
 
-TAP 2013:
+-----TAP 2013-----
 *4 - On the side of the road - https://www.spoj.com/problems/TAP2013A/
 5 - Little Red-Cap - https://www.spoj.com/problems/TAP2013C/
 6 - Watching the game - https://www.spoj.com/problems/TAP2013D/
 *7 - Escaping from escaping - https://www.spoj.com/problems/TAP2013E/
 8 - Treasure Island - https://www.spoj.com/problems/TAP2013I/
 
-Maratona de Programação 2011:
+-----Maratona de Programação 2011-----
 9 - SMS Championship - https://www.urionlinejudge.com.br/judge/en/problems/view/1458
 10 - Man, Elephant and Mouse - https://www.urionlinejudge.com.br/judge/en/problems/view/1477
 
-Maratona de Programação 2012:
+-----Maratona de Programação 2012-----
 11 - Space Elevator - https://www.urionlinejudge.com.br/judge/en/problems/view/1226
 12 - Star - https://www.urionlinejudge.com.br/judge/en/problems/view/1233
 
-Maratona de Programação 2013:
+-----Maratona de Programação 2013-----
 13 - Buses - https://www.urionlinejudge.com.br/judge/en/problems/view/1474
 14 - Patches - https://www.urionlinejudge.com.br/judge/en/problems/view/1475
 15 - Trucks - https://www.urionlinejudge.com.br/judge/en/problems/view/1476
 
-Maratona de Programação 2014:
+-----Maratona de Programação 2014-----
 *16 - Miss Worm - https://www.urionlinejudge.com.br/judge/en/problems/view/1711
 17 - Teletransport - https://www.urionlinejudge.com.br/judge/en/problems/view/1713
 18 - Grandpa Pepe's Pizza - https://www.urionlinejudge.com.br/judge/en/problems/view/1718
 
-Maratona de Programação 2015:
+-----Maratona de Programação 2015-----
 19 - Even Obsession - https://www.urionlinejudge.com.br/judge/en/problems/view/1931
 20 - Stock Market - https://www.urionlinejudge.com.br/judge/en/problems/view/1932
 21 - Puzzle - https://www.urionlinejudge.com.br/judge/en/problems/view/1934
 22 - Spiral - https://www.urionlinejudge.com.br/judge/en/problems/view/1935
 23 - Rectangle Park - https://www.urionlinejudge.com.br/judge/en/problems/view/1938
 
-Maratona de Programação 2016:
+-----Maratona de Programação 2016-----
 24 - Containers - https://www.urionlinejudge.com.br/judge/en/problems/view/2237
 25 - Go-- - https://www.urionlinejudge.com.br/judge/en/problems/view/2241
 26 - Isosceles - https://www.urionlinejudge.com.br/judge/en/problems/view/2243
 27 - Tiles - https://www.urionlinejudge.com.br/judge/en/problems/view/2246
 
-Maratona de Programação 2017:
+-----Maratona de Programação 2017-----
 28 - Acordes Intergaláticos - https://www.urionlinejudge.com.br/judge/en/problems/view/2658
 29 - Hipercampo - https://www.urionlinejudge.com.br/judge/en/problems/view/2665
 30 - Imposto Real - https://www.urionlinejudge.com.br/judge/en/problems/view/2666
 
-Maratona de Programação 2018:
+-----Maratona de Programação 2018-----
 Link: https://codeforces.com/gym/101908
 31 - Bolinhas de Gude(B)
 32 - Cortador de Pizza(C)
-33 - Festival(F)
+33 - *Festival(F)
 34 - Gasolina(G)
 35 - Linhas de Metrô(L)
 
-Maratona de Programação 2019:
+-----Maratona de Programação 2019-----
 Link: https://codeforces.com/gym/102346
 36 - Artwork(A)
 37 - Denouncing Mafia(D)
 *38 - Forests in Danger(F)
+*38.1 - Getting Confidence(G)
 39 - Interplanetary(I)
 40 - Maratona Brasileira de Popcorn(M)
 
-South (Latin) America 2013: 
+-----South (Latin) America 2013-----
 Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=99999999&category=615
 41 - Attacking Rooks (A)
 42 - Disjoint water supply(D)
 *43 - Join Two Kingdoms(J)
 
-South (Latin) America 2014:
+-----South (Latin) America 2014-----
 Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=99999999&category=658
 44 - Black and White Stones(B)
 45 - Counting Substhreengs(C)
 46 - Galaxy Collision(G)
 47 - Intrepid Climber(I)
 
-South (Latin) America 2015:
+-----South (Latin) America 2015-----
 Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=99999999&category=702
 48 - At Most Twice(A)
 49 - Blood Groups(B)
@@ -88,14 +89,14 @@ Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=999
 *51 - Fence the Vegetables Fail(F)
 *52 - Keep it Energized(K)
 
-South (Latin) America 2016:
+-----South (Latin) America 2016-----
 Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=99999999&category=702
 53 - Back to the Future(B)
 54 - Dating On-Line(D)
 55 - Hotel Rewards(H)
 *56 - Kill the Werewolf(K)
 
-South (Latin) America 2017:
+-----South (Latin) America 2017-----
 Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=99999999&category=788
 57 - Buggy ICPC(B)
 58 - Daunting Device(D)
@@ -104,22 +105,49 @@ Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=999
 61 - Imperial Roads(I)
 62 - Jumping Frog(J)
 
-South (Latin) America 2018:
+-----South (Latin) America 2018-----
 Link: https://www.urionlinejudge.com.br/judge/en/problems/origin/167
 63 - A Symmetrical Pizza(A)
 64 - Building a Field(B)
 65 - Cheap Trips(C)
 *66 - Fantastic Beasts(F)
 67 - Highway Decommission(H)
-68 - Ink Colors(I)
+*68 - Ink Colors(I)
 69 - Looking for the Risk Factor(L)
 
-South (Latin) America 2019:
+-----South (Latin) America 2019-----
 Link: https://codeforces.com/gym/102428
-70 - Dazzling stars(D)
+*70 - Dazzling stars(D)
 71 - Eggfruit Cake(E)
 *72 - Fabricating Sculptures(F)
 73 - Gluing Pictures(G)
 74 - Know your Aliens(K)
 75 - Leverage MDT(L)
 
+-----Asia Amritapuri 2012-----
+Link: https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=551
+NOTE: The problems that are marked with yellow check mark will give Presentation Error verdict, you can send problems here https://www.codechef.com/ACMAMR12
+76 - The Black Riders(A)
+77 - Gandalf vs the Balrog(B)
+78 - Entmoot(C)
+79 - *Dyslexic Gollum(E)
+80 - Saruman of Many Colours(I)
+81 - Escape from the Mines(J)
+
+-----Asia Jakarta 2013-----
+Link: https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=596
+NOTE: The problems that are marked with yellow check mark will give Presentation Error (PE) verdict, I dindn't another OJ to send the problem but I assume it's correct when I got PE at problem 87 (H)
+82 - Number Assignment(A)
+83 - The Busiest City(C)
+84 - Power Plant(E)
+85 - Pasti Pas!(F)
+86 - Emergency Handling(G)
+87 - Horrible Quiz(H)
+
+-----Asia Jakarta 2014-----
+88 - Electric Bike(C)
+89 - Kevin's Problem(D)
+90 - Cutting Tree (E)
+91 - Double Swords (F)
+92 - I Want That Cake(H)
+93 - Leveling Ground(J)

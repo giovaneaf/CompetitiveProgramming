@@ -37,6 +37,7 @@ Approaches that can be used to solve each problem
 36 - Geometry + Data Structre
 37 - DP + Greedy
 38 - Binary Search + area union of rectangles
+38.1 - Use log operation to turn multiplication in addition then it turns into the Assignment problem
 39 - Floyd Warshall sorting vertices and answering queries offline while executing the algorithm
 40 - Binary Search in answer
 41 - Max Flow
@@ -74,3 +75,21 @@ Approaches that can be used to solve each problem
 73 - Suffix Array + Greedy
 74 - polynomial multiplication (FFT)
 75 - DP
+76 - Binary Search + Max Flow
+77 - Graphs + Ad-hoc
+78 - Binary Search + Circle Intersection
+79 - Bitmask DP, note that a big palindrome string has smaller palindrome strings inside
+80 - Ad-hoc
+81 - Sweep Line
+82 - DP
+83 - DFS
+84 - MST
+85 - The solution is with string hasing (Rabin Karp) but because of the limits you can use brute force. I suggest using string hashing for practice.
+86 - Simulation + Data structure + Ad-hoc
+87 - DP
+88 - DP
+89 - Combinatorics
+90 - Union Find / Disjoint Set Union (DSU)
+91 - set operations
+92 - DP
+93 - Sparse Table (RMQ in O(1))
