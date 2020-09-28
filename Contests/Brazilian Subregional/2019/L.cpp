@@ -1,6 +1,6 @@
 /*
 You need to compute the number of odd numbers in n-th pascal triangle line.
-The answer is 2^(nº of bits turned on in binary representation of n).
+The answer is 2^(number of bits turned on in binary representation of n).
 */
 #include <bits/stdc++.h>
 using namespace std;

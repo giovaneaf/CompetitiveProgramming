@@ -1,0 +1,76 @@
+Approaches that can be used to solve each problem
+1 - Digit DP
+2 - Trie + Greedy (DFS)
+3 - DP
+4 - Geometry + Data Structre
+5 - DP in DAG
+6 - Data Structre (set)
+7 - Binary Search
+8 - Binary Search in answer + BFS
+9 - DP
+10 - Segment Tree
+11 - Digit DP
+12 - Euler Totient Function
+13 - Recurrence Relation in matriz + Matrix fast exponentiation
+14 - DP
+15 - Maximum Spanning Tree (only change weight comparator) + LCA
+16 - Dijkstra + DFS
+17 - Matrix fast exponentiation
+18 - Ad-hoc
+19 - Dijkstra
+20 - DP
+21 - Simulation
+22 - Binary search + mathematics (find formula)
+23 - Ad-hoc
+24 - Dijkstra
+25 - DP
+26 - Ad-hoc
+27 - Graphs (Flood Fill)
+28 - Segment Tree
+29 - Geometry + DP
+30 - DFS
+31 - Nim + DP
+32 - Inversion counting with Merge Sort/Seg Tree
+33 - bitmask DP
+34 - Binary Search + Max flow (Dinic)
+35 - LCA
+36 - Geometry + Data Structre
+37 - DP + Greedy
+38 - Binary Search + area union of rectangles
+39 - Floyd Warshall sorting vertices and answering queries offline while executing the algorithm
+40 - Binary Search in answer
+41 - Max Flow
+42 - DP + Graphs
+43 - DFS + Diameter in Trees + DP
+44 - Greedy
+45 - Combinatorics
+46 - Geometry + DFS
+47 - DFS
+48 - DP in digits or Greedy
+49 - Bipartite Matching
+50 - DFS + Knapsack
+51 - Sweep Line
+52 - DP + Seg Tree, store DP value in seg tree
+53 - operations with set(balanced binary tree) + Ad-hoc
+54 - Geometry + Greedy
+55 - Greedy
+56 - Max Flow
+57 - Ad-hoc
+58 - operations with set(balanced binary tree)
+59 - DP in digits
+60 - Segment Tree
+61 - MST + LCA
+62 - DP + GCD
+63 - Don't forget about round (IMPORTANT!)
+64 - Binary Search
+65 - DP
+66 - Chinese Remainder Theorem (CRT)
+67 - Dijkstra
+68 - DP on trees or I think there is a greedy approach
+69 - BIT/Seg Tree + Sieve of Eratosthenes
+70 - I didn't coded the solution, but it's ad-hoc keep possible angles from left to right and test all points in quadratic form
+71 - Ad-hoc
+72 - vertical DP (horizontal DP is cubic)
+73 - Suffix Array + Greedy
+74 - polynomial multiplication (FFT)
+75 - DP
