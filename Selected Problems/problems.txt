@@ -239,3 +239,32 @@ Link: https://codeforces.com/gym/102433
 *139 - Error Correction(I)
 140 - Maze Connect(M)
 
+-----SWERC 2014-2015-----
+Link: https://codeforces.com/gym/100783
+141 - Golf Bot(C)
+142 - Book Club(D)
+143 - Ricochet Robots(E)
+*144 - City Park(F)
+*145 - The Safe Secret(I)
+
+-----SWERC 2015-2016-----
+Link: https://codeforces.com/gym/101128
+146 - Canvas Painting(C)
+147 - Wooden Signs(D)
+148 - Game of Cards(G)
+149 - Sheldon Numbers(H)
+150 - Saint John Festival(J)
+
+-----SWERC 2017-2018-----
+Link: https://codeforces.com/gym/101635
+*151 - Macarons(C)
+152 - Ingredients(E)
+153 - Frosting on the Cake(J)
+*154 - Blowing Candles(K)
+
+-----SWERC 2019-2020-----
+Link: https://codeforces.com/gym/102501
+155 - Counting Trees(J)
+156 - Bird Watching(K)
+*157 - River Game(L)
+

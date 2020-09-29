@@ -140,3 +140,21 @@ Approaches that can be used to solve each problem
 138 - DFS's to compute what they want
 139 - Max flow
 140 - Flood Fill (I think there is a tricky case to handle)
+141 - polynomial multiplication (FFT)
+142 - Bipartite Matching
+143 - BFS + Implementation
+144 - Tricky Sweep Line with union find
+145 - DP (kind of Matrix Chain Multiplication DP)
+146 - Greedy (Idea from Huffman Code)
+147 - DP (You can reduce a lot the number of states of the last dimension)
+148 - Nim + DP
+149 - DP
+150 - Convex Hull + Point inside Polygon in O(log(n))
+151 - Bitmask all the rows and make all transitions creating a recurrence matrix + Fast Matrix Exponentiation
+152 - DAG + DP(Knapsack)
+153 - Ad-hoc
+154 - Convex Hull + Rotating Calipers
+155 - Catalan Numbers
+156 - SCC
+157 - Nim + DP with optimization (splitting some connected components)
+
