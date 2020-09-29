@@ -2,7 +2,7 @@ Approaches that can be used to solve each problem
 1 - Digit DP
 2 - Trie + Greedy (DFS)
 3 - DP
-4 - Geometry + Data Structre
+4 - Geometry + Data Structre + irredutible fraction
 5 - DP in DAG
 6 - Data Structre (set)
 7 - Binary Search
@@ -20,7 +20,7 @@ Approaches that can be used to solve each problem
 19 - Dijkstra
 20 - DP
 21 - Simulation
-22 - Binary search + mathematics (find formula)
+22 - Binary search + Math (find formula)
 23 - Ad-hoc
 24 - Dijkstra
 25 - DP
@@ -93,3 +93,50 @@ Approaches that can be used to solve each problem
 91 - set operations
 92 - DP
 93 - Sparse Table (RMQ in O(1))
+94 - DP
+95 - Binary Search + Dijkstra
+96 - Binary Search + Max Flow
+97 - Dijkstra or Greedy
+98 - GCD
+99 - Max Flow
+100 - Bitmask DP
+101 - Use log operations to avoid underflow
+102 - Dijkstra + Max Flow + Binary Search
+103 - Bretschneider’s formula ->  Brahmagupta’s formula
+104 - Geometry
+105 - Sieve + irredutible fraction
+106 - Math (Fibonacci)
+107 - Brute force (use math to determine upper bounds)
+108 - BFS in bitmask graph
+109 - Binary search in answer
+110 - DP
+111 - Binary Search + Dijkstra + DP
+112 - DP + Math (probability)
+113 - Greedy
+114 - Math (Inclusion-Exclusion principle) + Combinatorics or PD
+115 - Compute Formula or Binary Search (Physics)
+116 - Sparse Table
+117 - Gray to Binary
+118 - 3 BFS (particular steiner tree with k = 3 isn't NP-complete)
+119 - Max Flow
+120 - Geometry
+121 - DP (sorting order is tricky)
+122 - DP + Math (probability)
+123 - Greedy + operations with set
+124 - Combinatorics
+125 - Dijkstra with new dimension (string position)
+126 - 2-SAT + SCC
+127 - Bipartite Graph + Konig Theorem (Find Maximal Independent Set)
+128 - DP on number of artists
+129 - Sparse Table
+130 - Combinatorics with log to avoid overflow
+131 - Strange but very useful formula to know
+132 - DFS, tricky solution
+133 - DP
+134 - DP
+135 - DP
+136 - Max flow (Min cut Theorem)
+137 - Math (Sieve)
+138 - DFS's to compute what they want
+139 - Max flow
+140 - Flood Fill (I think there is a tricky case to handle)

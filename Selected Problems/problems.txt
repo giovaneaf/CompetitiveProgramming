@@ -55,9 +55,9 @@ If the problem have * it may be hard (may be others too)
 Link: https://codeforces.com/gym/101908
 31 - Bolinhas de Gude(B)
 32 - Cortador de Pizza(C)
-33 - *Festival(F)
-34 - Gasolina(G)
-35 - Linhas de Metrô(L)
+*33 - Festival(F)
+*34 - Gasolina(G)
+*35 - Linhas de Metrô(L)
 
 -----Maratona de Programação 2019-----
 Link: https://codeforces.com/gym/102346
@@ -122,15 +122,15 @@ Link: https://codeforces.com/gym/102428
 *72 - Fabricating Sculptures(F)
 73 - Gluing Pictures(G)
 74 - Know your Aliens(K)
-75 - Leverage MDT(L)
+*75 - Leverage MDT(L)
 
 -----Asia Amritapuri 2012-----
 Link: https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=551
 NOTE: The problems that are marked with yellow check mark will give Presentation Error verdict, you can send problems here https://www.codechef.com/ACMAMR12
-76 - The Black Riders(A)
+*76 - The Black Riders(A)
 77 - Gandalf vs the Balrog(B)
 78 - Entmoot(C)
-79 - *Dyslexic Gollum(E)
+*79 - Dyslexic Gollum(E)
 80 - Saruman of Many Colours(I)
 81 - Escape from the Mines(J)
 
@@ -152,3 +152,90 @@ Link: https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid
 91 - Double Swords (F)
 92 - I Want That Cake(H)
 93 - Leveling Ground(J)
+
+-----BAPC 2016-----
+Link: https://codeforces.com/gym/101490
+94 - Bridge Automation(D)
+95 - Charles in Charge(E)
+*96 - Programming Tutors(J)
+
+-----BAPC 2017-----
+Link: https://codeforces.com/gym/101666
+97 - Amsterdam Distance(A)
+98 - Collatz Conjecture(C)
+*99 - Easter Egg(E)
+*100 - Going Dutch (G)
+101 - Lemonade Trade(L)
+
+-----BAPC 2018-----
+Link: https://codeforces.com/gym/102007
+**102 -  In Case of an Invasion, Please(I)
+103 - Janitor Troubles(J)
+
+-----GCPC 2018-----
+Link: https://codeforces.com/gym/102021
+104 - Battle Royale(B)
+105 - Expired License(E)
+106 - Fighting Monsters (F)
+107 - Hyper Illuminati(H)
+
+-----NCPC 2017-2018-----
+Link: https://codeforces.com/gym/101572
+*108 - Distinctive Character(D)
+109 - Kayaking Trip(K)
+
+-----NCPC 2018-2019-----
+Link: https://codeforces.com/gym/101933
+*110 - Altruistic Amphibians(A)
+*111 - Delivery Delays(D)
+112 - Explosion Exploit(E)
+113 - Jumbled String(J)
+*114 - King’s Colors(K)
+
+-----NWERC 2016-2017-----
+Link: https://codeforces.com/gym/101170
+115 - Careful Ascent(C)
+116 - Free Weights(F)
+117 - Hamiltonian Hypercube(H)
+*118 - Iron and Coal(I)
+*119 - Jupiter Orbiter(J)
+
+-----NWERC 2017-2018-----
+Link: https://codeforces.com/gym/101623
+120 - Glyph Recognition(G)
+*121 - Installing Apps(I)
+122 - Knockout Tournament(K)
+
+-----NWERC 2019-2020-----
+Link: https://codeforces.com/gym/102500
+123 - Canvas Line(C)
+124 - Gnoll Hypothesis (G)
+
+-----Pacific Northwest Div.1 2016-2017-----
+Link: http://codeforces.com/gym/101201
+125 - Buggy Robot(B)
+*126 - Illumination(F)
+*127 - Maximum Islands(G)
+128 - Paint(H)
+129 - Shopping(J)
+*130 - Tournament Wins(K)
+
+-----Pacific Northwest Div.1 2017-2018-----
+Link: http://codeforces.com/gym/101615
+*131 - Fear Factoring(C)
+*132 - Rainbow Roads(D)
+133 - Grid Coloring(J)
+
+-----Pacific Northwest Div.1 2018-2019-----
+Link: https://codeforces.com/gym/101982
+134 - Contest Setting(C)
+135 - Count The Bits(D)
+136 - Cops And Robbers(E)
+137 - Repeating Goldbachs(H)
+
+-----Pacific Northwest Div.1 2019-2020-----
+Link: https://codeforces.com/gym/102433
+138 - Radio Prize(A)
+*139 - Error Correction(I)
+140 - Maze Connect(M)
+
