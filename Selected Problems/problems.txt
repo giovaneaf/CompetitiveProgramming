@@ -87,6 +87,7 @@ Link: https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=999
 49 - Blood Groups(B)
 50 - Exposing Corruption(E)
 *51 - Fence the Vegetables Fail(F)
+*51.1 - Galactic Taxes
 *52 - Keep it Energized(K)
 
 -----South (Latin) America 2016-----
@@ -267,4 +268,27 @@ Link: https://codeforces.com/gym/102501
 155 - Counting Trees(J)
 156 - Bird Watching(K)
 *157 - River Game(L)
+
+-----BAPC Preliminaries 2017-----
+Link: https://open.kattis.com/problem-sources/Benelux%20Algorithm%20Programming%20Contest%20%28BAPC%29%20preliminaries%202017
+158 - Abandoned Animal(A)
+*159 - Booming Business(B)
+160 - Crowd Control(C)
+161 - Envious Exponents(E)
+162 - Horror Film Night(H)
+163 - Intelligence Infection(I)
+
+-----China Multi-Provincial Collegiate 2018-2019-----
+Link: https://codeforces.com/gym/102222
+164 - Maximum Element In A Stack(A)
+165 - Rolling The Polygon(B)
+166 - Moving On(F)
+167 - Fight Against Monsters(H)
+
+-----KTH Challenge 2020-----
+Link: https://open.kattis.com/problem-sources/KTH%20Challenge%202020
+168 - Gaggle(D)
+169 - Pitch Performance(E)
+170 - Winning the Vote(H)
+
 

@@ -51,6 +51,7 @@ Approaches that can be used to solve each problem
 49 - Bipartite Matching
 50 - DFS + Knapsack
 51 - Sweep Line
+51.1 - Ternary Search + Dijkstra
 52 - DP + Seg Tree, store DP value in seg tree
 53 - operations with set(balanced binary tree) + Ad-hoc
 54 - Geometry + Greedy
@@ -157,4 +158,17 @@ Approaches that can be used to solve each problem
 155 - Catalan Numbers
 156 - SCC
 157 - Nim + DP with optimization (splitting some connected components)
+158 - Greedy (one starting from first to last then other to last to first)
+159 - DP on Trees (you can split in two nodes)
+160 - Binary Search + DFS
+161 - DP in digits (binary digit)
+162 - Greedy or bottom-up DP
+163 - SCC (Condensation Graph)
+164 - 2 stacks (normal stack and max stack)
+165 - Geometry (rotate the polygon)
+166 - Floyd Warshall sorting vertices and answering queries offline while executing the algorithm
+167 - Math + Greedy
+168 - Graph + Union Find (DSU)
+169 - Math (Integral + splitting in intersections)
+170 - DP
 
