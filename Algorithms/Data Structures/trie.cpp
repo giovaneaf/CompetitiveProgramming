@@ -61,7 +61,7 @@ struct trie
 	int dfs(int cur)
 	{
 		int subtract = 0;
-		for(int i = 0; i < 26; ++i)
+		for(int i = 0; i < MN; ++i)
 		{
 			if(tree[cur].a[i] != -1)
 			{
