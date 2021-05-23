@@ -1,0 +1,9 @@
+-----Normal Version-----
+Wormhole(L) - https://codeforces.com/gym/100827
+Jogging - https://codeforces.com/gym/103081/problem/D
+Environment-Friendly Travel - https://codeforces.com/gym/102501/problem/A
+Flowery Trails(B) - https://codeforces.com/gym/100783
+
+
+-----Sorted Floyd Warshall Version-----
+https://codeforces.com/gym/102222/problem/F

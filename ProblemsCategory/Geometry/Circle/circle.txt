@@ -1,0 +1,1 @@
+Safe Distance - https://codeforces.com/gym/103081/problem/C - (+ Binary Search, Union Find)

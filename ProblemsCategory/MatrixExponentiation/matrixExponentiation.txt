@@ -1,0 +1,3 @@
+-----Bitmask Version-----
+Knights(F) - https://codeforces.com/gym/100827
+Macarons(C) - https://codeforces.com/gym/101635

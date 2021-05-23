@@ -291,4 +291,18 @@ Link: https://open.kattis.com/problem-sources/KTH%20Challenge%202020
 169 - Pitch Performance(E)
 170 - Winning the Vote(H)
 
+-----SWERC 2020-2021-----
+Link: https://codeforces.com/gym/103081/
+171 - Safe Distance(C)
+172 - Jogging(D)
+173 - Figurines(H)
+174 - Unique Activities (K)
+175 - Restaurants (L)
 
+-----Pacific Northwest Div.1 2014-2015-----
+Link: https://codeforces.com/gym/100827
+176 - Hill Number(E)
+177 - Knights (F)
+178 - Pushups (H)
+179 - Salary Inequity (I)
+180 - Towers (K)

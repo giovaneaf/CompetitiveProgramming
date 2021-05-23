@@ -11,7 +11,7 @@ Approaches that can be used to solve each problem
 10 - Segment Tree
 11 - Digit DP
 12 - Euler Totient Function
-13 - Recurrence Relation in matriz + Matrix fast exponentiation
+13 - Recurrence Relation in matrix + Matrix fast exponentiation
 14 - DP
 15 - Maximum Spanning Tree (only change weight comparator) + LCA
 16 - Dijkstra + DFS
@@ -34,7 +34,7 @@ Approaches that can be used to solve each problem
 33 - bitmask DP
 34 - Binary Search + Max flow (Dinic)
 35 - LCA
-36 - Geometry + Data Structre
+36 - Geometry + Data Structure
 37 - DP + Greedy
 38 - Binary Search + area union of rectangles
 38.1 - Use log operation to turn multiplication in addition then it turns into the Assignment problem
@@ -171,4 +171,13 @@ Approaches that can be used to solve each problem
 168 - Graph + Union Find (DSU)
 169 - Math (Integral + splitting in intersections)
 170 - DP
-
+171 - Geometry + Data Structure + Binary Search
+172 - Dijkstra
+173 - Persistent data structure (e.g. persistent seg tree)
+174 - Suffix structure (e.g. suffix array)
+175 - Stable Marriage - hospitals/residents version (Gale-Shapley algorithm)
+176 - Digit DP
+177 - Recurrence relation + Matrix fast exponentiation
+178 - DP
+179 - DFS seg tree
+180 - Kind of sudoku solver

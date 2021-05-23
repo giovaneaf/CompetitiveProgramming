@@ -1,0 +1,2 @@
+Crowd Control - https://open.kattis.com/problems/crowdcontrol (DFS + Binary Search)
+Ricochet Robots(E) - https://codeforces.com/gym/100783

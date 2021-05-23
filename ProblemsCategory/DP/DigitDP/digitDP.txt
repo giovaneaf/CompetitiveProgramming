@@ -1,0 +1,2 @@
+Hill Number(E) - https://codeforces.com/gym/100827
+Envious Exponents - https://open.kattis.com/problems/enviousexponents (Binary)
