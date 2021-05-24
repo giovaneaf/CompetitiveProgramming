@@ -1,4 +1,0 @@
-Keep Calm and Sell Balloons(K) - https://codeforces.com/gym/102346
------Bitmask Version-----
-Knights(F) - https://codeforces.com/gym/100827
-Macarons(C) - https://codeforces.com/gym/101635

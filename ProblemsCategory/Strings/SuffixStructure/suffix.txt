@@ -1,2 +1,0 @@
-Unique Activities - https://codeforces.com/gym/103081/problem/K
-Gluing Pictures(G) - https://codeforces.com/gym/102428 (+ greedy)

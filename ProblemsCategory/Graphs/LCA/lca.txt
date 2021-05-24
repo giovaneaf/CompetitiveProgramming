@@ -1,2 +1,0 @@
-Subway Lines(L) - https://codeforces.com/gym/101908
-Imperial roads - https://vjudge.net/problem/UVALive-8196 (+ MST)

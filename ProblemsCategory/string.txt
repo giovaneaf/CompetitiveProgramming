@@ -1,0 +1,12 @@
+Runes(A) - https://codeforces.com/gym/100827
+Odd Palindrome(A) - https://codeforces.com/gym/101615
+House Lawn - https://codeforces.com/gym/101933/problem/H
+The Mirror of Galadriel - https://vjudge.net/problem/UVALive-6342
+
+-----Suffix------
+Unique Activities - https://codeforces.com/gym/103081/problem/K
+Gluing Pictures(G) - https://codeforces.com/gym/102428 (+ greedy)
+
+-----Hashing-----
+Pasti Pas! - https://vjudge.net/problem/UVALive-6439
+The Big Painting(J) - https://codeforces.com/gym/100783 (Rabin Karp)

@@ -1,0 +1,63 @@
+Ricochet Robots(E) - https://codeforces.com/gym/100783
+Brexit(B) - https://codeforces.com/gym/101490
+Body Building - https://vjudge.net/problem/UVALive-6907
+Tiles - https://www.urionlinejudge.com.br/judge/en/problems/view/2246 (flood fill)
+Letters - https://www.urionlinejudge.com.br/judge/en/problems/view/1714
+Boss - https://www.urionlinejudge.com.br/judge/en/problems/view/1469
+Intrepid climber - https://vjudge.net/problem/UVALive-6829
+King of the Waves(K) - https://codeforces.com/gym/101666
+The Busiest City - https://vjudge.net/problem/UVALive-6436
+Radio Prize(A) - https://codeforces.com/gym/102433
+Coloring Contention(C) - https://codeforces.com/gym/102433
+Crowd Control - https://open.kattis.com/problems/crowdcontrol (DFS + Binary Search)
+Distinctive Character(D) - https://codeforces.com/gym/101572 (multisource BFS)
+Kingpin Escape(K) - https://codeforces.com/gym/102007
+
+-----Minimum Path-----
+Wormhole(L) - https://codeforces.com/gym/100827
+Containers - https://www.urionlinejudge.com.br/judge/en/problems/view/2237
+Environment-Friendly Travel - https://codeforces.com/gym/102501/problem/A
+Flowery Trails(B) - https://codeforces.com/gym/100783
+Buggy Robot(B) - https://codeforces.com/gym/101201
+Detour(D) - https://codeforces.com/gym/101666
+Highway Decommission - https://www.urionlinejudge.com.br/judge/en/problems/origin/167
+Jogging - https://codeforces.com/gym/103081/problem/D
+Miss Worm - https://www.urionlinejudge.com.br/judge/en/problems/view/1711
+Delivery Delays - https://codeforces.com/gym/101933/problem/D (+ binary search)
+Charles in Charge(E) - https://codeforces.com/gym/101490 (+ binary search)
+
+-----Sorted Floyd Warshall Version (MP)-----
+Moving On - https://codeforces.com/gym/102222/problem/F
+Interplanetary(I) - https://codeforces.com/gym/102346
+
+-----MST-----
+Power Plant - https://vjudge.net/problem/UVALive-6437
+
+-----SCC-----
+Intelligence Infection - https://open.kattis.com/problems/intelligenceinfection
+Birdwatching - https://codeforces.com/gym/102501/problem/K
+
+-----LCA-----
+Subway Lines(L) - https://codeforces.com/gym/101908
+Imperial roads - https://vjudge.net/problem/UVALive-8196 (+ MST)
+Trucks - https://www.urionlinejudge.com.br/judge/en/problems/view/1476 (+ maximum spanning tree)
+
+-----Max Flow-----
+Cops And Roobers(E) - https://codeforces.com/gym/101982
+Book Club(D) - https://codeforces.com/gym/100783 (Bipartite Matching)
+Error Correction(I) - https://codeforces.com/gym/102433 (Bipartite Matching)
+Gasoline(G) - https://codeforces.com/gym/101908 (Bipartite Matching)
+Easter Eggs(E) - https://codeforces.com/gym/101666 (Bipartite Matching)
+Attacking rooks - https://vjudge.net/problem/UVALive-6525
+Blood groups - https://vjudge.net/problem/UVALive-7204 (Bipartite Matching)
+Programming Tutors(J) - https://codeforces.com/gym/101490 (+ binary search)
+The Black Riders - https://vjudge.net/problem/UVALive-6339 (+ binary search)
+Jupiter Orbiter(J) - https://codeforces.com/gym/101170
+Maximum Islands(G) - https://codeforces.com/gym/101201
+Getting Confidence(G) - https://codeforces.com/gym/102346 (use log)
+Kill the Werewolf - https://vjudge.net/problem/UVALive-7896
+In Case of an Invasion, Please... (I) - https://codeforces.com/gym/102007 (+ binary search, Dijkstra)
+
+-----Theory-----
+Emails - https://codeforces.com/gym/103081/problem/I
+Just in Time - https://vjudge.net/problem/UVALive-7895

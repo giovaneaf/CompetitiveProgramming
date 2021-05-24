@@ -1,7 +1,0 @@
-Rainbow Strings(E) - https://codeforces.com/gym/102433
-Kevin's Problem - https://vjudge.net/problem/UVALive-6909
-Less Coin Tosses(L) - https://codeforces.com/gym/102346
-Counting substhreengs - https://vjudge.net/problem/UVALive-6823
-Gnoll Hypothesis(G) - https://codeforces.com/gym/102500 (DP maybe needed)
-Tournament Wins(K) - https://codeforces.com/gym/101201 (use log)
-King's Colors - https://codeforces.com/gym/101933/problem/K (DP + modular multiplicative inverse)

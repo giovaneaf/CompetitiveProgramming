@@ -1,4 +1,0 @@
------Circle-----
-Artwork(A) - https://codeforces.com/gym/102346
-Safe Distance - https://codeforces.com/gym/103081/problem/C - (circle + binary search + union find)
-Battle Royale(B) - https://codeforces.com/gym/102021 (vectors + circle)

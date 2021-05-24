@@ -1,5 +1,0 @@
-Salary Inequity(I) - https://codeforces.com/gym/100827
-Fundraising - https://vjudge.net/problem/UVALive-8193
-
------Persistent Version-----
-Figurines - https://codeforces.com/gym/103081/problem/H

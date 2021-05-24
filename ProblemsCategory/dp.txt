@@ -1,29 +1,38 @@
 Pushups(H) - https://codeforces.com/gym/100827
 Booming Business - https://open.kattis.com/problems/boomingbusiness
 Contest Setting(C) - https://codeforces.com/gym/101982
-Alphabet(A) - https://codeforces.com/gym/101201
 Coolest Ski Route(C) - https://codeforces.com/gym/102021 (DAG)
+Ginástica - https://www.urionlinejudge.com.br/judge/en/problems/view/2664
+Alphabet(A) - https://codeforces.com/gym/101201
 Bridge Automation(D) - https://codeforces.com/gym/101490
 Cheap Trips - https://www.urionlinejudge.com.br/judge/en/problems/origin/167
 Horror Film Night - https://open.kattis.com/problems/horrorfilmnight
 Electric Bike - https://vjudge.net/problem/UVALive-6908
 Improve SPAM(I) - https://codeforces.com/gym/102428
 Paint(H) - https://codeforces.com/gym/101201
+Little Red-Cap - https://www.spoj.com/problems/TAP2013C/
+Stock Market - https://www.urionlinejudge.com.br/judge/en/problems/origin/94
 Horrible Quiz - https://vjudge.net/problem/UVALive-6441
-Installing Apps(I) - https://codeforces.com/gym/101623 (perfect ordering for DP)
 Ingredients(E) - https://codeforces.com/gym/101635
+Go-- - https://www.urionlinejudge.com.br/judge/en/problems/view/2241
+Hipercampo - https://www.urionlinejudge.com.br/judge/en/problems/view/2665
 Explosion Exploit - https://codeforces.com/gym/101933/problem/E (+ probability)
 Number Assignment - https://vjudge.net/problem/UVALive-6434
+Emmas Domino - https://www.spoj.com/problems/TAP2012E/
 Knockout Tournament (K) - https://codeforces.com/gym/101623 (+ probability)
 Sheldon Numbers(H) - https://codeforces.com/gym/101128
+SMS Championship - https://www.urionlinejudge.com.br/judge/en/problems/view/1458
 Disjoint water supply - https://vjudge.net/problem/UVALive-6528
+Patches - https://www.urionlinejudge.com.br/judge/en/problems/view/1475
 Exposing corruption - https://vjudge.net/problem/UVALive-7207
+Installing Apps(I) - https://codeforces.com/gym/101623 (perfect ordering for DP)
 Manhattan Mornings(M) - https://codeforces.com/gym/101666 (LIS in O(n*log(n)))
 Wooden Signs(E) - https://codeforces.com/gym/101128
 Leverage MDT(L) - https://codeforces.com/gym/102428
 Lemonade Trade(L) - https://codeforces.com/gym/101666 (use log)
 Grid Coloring(J) - https://codeforces.com/gym/101615
 Even distribution - https://vjudge.net/problem/UVALive-6825
+Game of stones - https://www.spoj.com/problems/TAP2013J
 I Want That Cake - https://vjudge.net/problem/UVALive-6913
 The Safe Secret(I) - https://codeforces.com/gym/100783
 Altruistic Amphibians - https://codeforces.com/gym/101933/problem/A (+ space optimization)
@@ -31,6 +40,16 @@ Gates of uncertainty - https://vjudge.net/problem/UVALive-8194
 Keep it energized - https://vjudge.net/problem/UVALive-7213
 Ink Colors - https://www.urionlinejudge.com.br/judge/en/problems/origin/167
 Fabricating Sculptures(F) - https://codeforces.com/gym/102428
+
+-----Digit DP-----
+Hill Number(E) - https://codeforces.com/gym/100827
+Envious Exponents - https://open.kattis.com/problems/enviousexponents (Binary)
+Enigma - https://vjudge.net/problem/UVALive-8192
+Cantor - https://www.spoj.com/problems/TAP2012C
+At most twice - https://vjudge.net/problem/UVALive-7203 (or tricky greedy)
+Space Elevator - https://www.urionlinejudge.com.br/judge/en/problems/view/1226
+Count The Bits(D) - https://codeforces.com/gym/101982
+Dyslexic Gollum - https://vjudge.net/problem/UVALive-6343 (+ mask)
 
 -----Bitmask DP-----
 Going Dutch(G) - https://codeforces.com/gym/101666

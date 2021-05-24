@@ -1,0 +1,24 @@
+Toboggan of Marbles - https://www.urionlinejudge.com.br/judge/en/problems/view/1223
+Artwork(A) - https://codeforces.com/gym/102346
+Safe Distance - https://codeforces.com/gym/103081/problem/C - (+ binary search, union find)
+Battle Royale(B) - https://codeforces.com/gym/102021
+
+-----Polygon-----
+Icebergs - https://codeforces.com/gym/102501/problem/F
+Rolling The Polygon - https://codeforces.com/gym/102222/problem/B
+Dating On-Line - https://vjudge.net/problem/UVALive-7889 (+ greedy)
+Escape, Polygon! - https://www.urionlinejudge.com.br/judge/en/problems/origin/167 (+ combinatorics)
+
+-----Convex Hull-----
+Blowing Candles(K) - https://codeforces.com/gym/101635 (+ point inside hull)
+Saint John Festival(J) - https://codeforces.com/gym/101128 (+ point inside hull)
+
+-----Sweep-----
+Escape from the Mines - https://vjudge.net/problem/UVALive-6348
+Fence the vegetables fail  - https://vjudge.net/problem/UVALive-7208 (+ seg tree)
+Balloon - https://www.urionlinejudge.com.br/judge/en/problems/view/1468 (+ seg tree)
+
+-----Area Union-----
+Rectangles(F) - https://codeforces.com/gym/101982
+City Park(F) - https://codeforces.com/gym/100783 (+ Union Find)
+Forests in Danger(F) - https://codeforces.com/gym/102346

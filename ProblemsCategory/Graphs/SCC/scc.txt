@@ -1,2 +1,0 @@
-Intelligence Infection - https://open.kattis.com/problems/intelligenceinfection
-Birdwatching - https://codeforces.com/gym/102501/problem/K

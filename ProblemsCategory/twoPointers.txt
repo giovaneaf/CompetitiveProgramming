@@ -1,2 +1,3 @@
 Cameras(C) - https://codeforces.com/gym/101201
+Triangles - https://www.urionlinejudge.com.br/judge/en/problems/view/1472
 Leveling Ground - https://vjudge.net/problem/UVALive-6915 (+ sparse table)

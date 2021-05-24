@@ -1,0 +1,43 @@
+-----Combinatorics-----
+Rainbow Strings(E) - https://codeforces.com/gym/102433
+Kevin's Problem - https://vjudge.net/problem/UVALive-6909
+Less Coin Tosses(L) - https://codeforces.com/gym/102346
+Counting substhreengs - https://vjudge.net/problem/UVALive-6823
+Gnoll Hypothesis(G) - https://codeforces.com/gym/102500 (DP maybe needed)
+Tournament Wins(K) - https://codeforces.com/gym/101201 (use log)
+King's Colors - https://codeforces.com/gym/101933/problem/K (DP + modular multiplicative inverse)
+
+-----FFT-----
+Golf Bot(C) - https://codeforces.com/gym/100783
+
+-----Fibonacci-----
+Fighting Monsters(F) - https://codeforces.com/gym/102021
+
+-----Matrix Exponentiation-----
+Teletransport - https://www.urionlinejudge.com.br/judge/en/problems/view/1713
+Buses - https://www.urionlinejudge.com.br/judge/en/problems/view/1474
+Keep Calm and Sell Balloons(K) - https://codeforces.com/gym/102346
+
+-----Bitmask Version-----
+Knights(F) - https://codeforces.com/gym/100827
+Macarons(C) - https://codeforces.com/gym/101635
+
+-----Nim game-----
+Marbles(B) - https://codeforces.com/gym/101908
+River Game - https://codeforces.com/gym/102501/problem/L
+Game of Cards(G) - https://codeforces.com/gym/101128
+
+-----Number Theory-----
+Dividers - https://www.urionlinejudge.com.br/judge/en/problems/view/2238
+Repeating Goldbachs(H) - https://codeforces.com/gym/101982
+Expired License(E) - https://codeforces.com/gym/102021
+Cigarras Periódicas - https://www.urionlinejudge.com.br/judge/en/problems/origin/148
+Despojados - https://www.urionlinejudge.com.br/judge/en/problems/view/2661
+Collatz Conjecture(C) - https://codeforces.com/gym/101666
+Older Brother(I) - https://codeforces.com/gym/101490
+Jumping Frog - https://vjudge.net/problem/UVALive-8197
+Looking for the Risk Factor - https://www.urionlinejudge.com.br/judge/en/problems/origin/167 (+ interval query)
+RSA - https://www.urionlinejudge.com.br/judge/en/problems/view/1716 (+ inverse modular)
+
+-----Chinese Remainder Theorem-----
+Fantastic Beasts - https://www.urionlinejudge.com.br/judge/en/problems/origin/167

@@ -1,0 +1,5 @@
+Playing With Geometry(G) - https://codeforces.com/gym/100783 - Polyomino
+Maximum Element In A Stack - https://codeforces.com/gym/102222/problem/A - Max Stack
+Canvas Painting(C) - https://codeforces.com/gym/101128 - Huffman
+Restaurants - https://codeforces.com/gym/103081/problem/L - Stable Marriage / Hospital Resident
+Combating Cancer - https://www.urionlinejudge.com.br/judge/en/problems/view/1229 (Newick notation)

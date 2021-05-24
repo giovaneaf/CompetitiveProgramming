@@ -1,0 +1,19 @@
+-----STL-----
+Abandoned Animal - https://open.kattis.com/problems/abandonedanimal
+Biodiversity - https://codeforces.com/gym/102501/problem/B
+Dunglish(D) - https://codeforces.com/gym/101623
+
+-----Segment Tree-----
+Man, Elephant and Mouse - https://www.urionlinejudge.com.br/judge/en/problems/view/1477
+Salary Inequity(I) - https://codeforces.com/gym/100827
+Fundraising - https://vjudge.net/problem/UVALive-8193
+Acordes Intergaláticos - https://www.urionlinejudge.com.br/judge/en/problems/view/2658
+Figurines - https://codeforces.com/gym/103081/problem/H (persistent)
+
+-----Union Find-----
+Firetrucks Are Red(F) - https://codeforces.com/gym/102500
+Cluster Analysis - https://vjudge.net/problem/UVALive-6906
+Cutting Tree - https://vjudge.net/problem/UVALive-6910
+
+-----Trie-----
+Designing T-Shirts - https://www.spoj.com/problems/TAP2012D

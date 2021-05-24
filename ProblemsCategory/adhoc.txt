@@ -19,6 +19,7 @@ Cardboard Container(C) - https://codeforces.com/gym/102007
 Saruman of Many Colours - https://vjudge.net/problem/UVALive-6347
 Gandalf vs the Balrog - https://vjudge.net/problem/UVALive-6340
 Emergency Handling - https://vjudge.net/problem/UVALive-6440
+Isosceles - https://www.urionlinejudge.com.br/judge/en/problems/view/2243
 Building a Field - https://www.urionlinejudge.com.br/judge/en/problems/origin/167
 Buggy ICPC - https://vjudge.net/problem/UVALive-8189
 Denouncing Mafia(D) - https://codeforces.com/gym/102346

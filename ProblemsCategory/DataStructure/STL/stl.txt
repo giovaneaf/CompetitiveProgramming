@@ -1,3 +1,0 @@
-Abandoned Animal - https://open.kattis.com/problems/abandonedanimal
-Biodiversity - https://codeforces.com/gym/102501/problem/B
-Dunglish(D) - https://codeforces.com/gym/101623

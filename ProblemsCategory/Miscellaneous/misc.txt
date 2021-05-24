@@ -1,4 +1,0 @@
-Restaurants - https://codeforces.com/gym/103081/problem/L - Stable Marriage / Hospital Resident
-Maximum Element In A Stack - https://codeforces.com/gym/102222/problem/A - Max Stack
-Canvas Painting(C) - https://codeforces.com/gym/101128 - Huffman
-Playing With Geometry(G) - https://codeforces.com/gym/100783 - Polyomino

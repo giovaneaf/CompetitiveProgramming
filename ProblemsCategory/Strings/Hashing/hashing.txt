@@ -1,2 +1,0 @@
-Pasti Pas! - https://vjudge.net/problem/UVALive-6439
-The Big Painting(J) - https://codeforces.com/gym/100783 (Rabin Karp)

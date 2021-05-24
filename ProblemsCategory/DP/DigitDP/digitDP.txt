@@ -1,6 +1,0 @@
-Hill Number(E) - https://codeforces.com/gym/100827
-Envious Exponents - https://open.kattis.com/problems/enviousexponents (Binary)
-Enigma - https://vjudge.net/problem/UVALive-8192
-At most twice - https://vjudge.net/problem/UVALive-7203 (or tricky greedy)
-Count The Bits(D) - https://codeforces.com/gym/101982
-Dyslexic Gollum - https://vjudge.net/problem/UVALive-6343 (+ mask)
