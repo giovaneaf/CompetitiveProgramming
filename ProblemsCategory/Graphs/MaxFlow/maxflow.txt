@@ -1,1 +1,14 @@
-Book Club(D) - https://codeforces.com/gym/100783 (Bipartite)
+Cops And Roobers(E) - https://codeforces.com/gym/101982
+Book Club(D) - https://codeforces.com/gym/100783 (Bipartite Matching)
+Error Correction(I) - https://codeforces.com/gym/102433 (Bipartite Matching)
+Gasoline(G) - https://codeforces.com/gym/101908 (Bipartite Matching)
+Easter Eggs(E) - https://codeforces.com/gym/101666 (Bipartite Matching)
+Attacking rooks - https://vjudge.net/problem/UVALive-6525
+Blood groups - https://vjudge.net/problem/UVALive-7204 (Bipartite Matching)
+Programming Tutors(J) - https://codeforces.com/gym/101490 (+ binary search)
+The Black Riders - https://vjudge.net/problem/UVALive-6339 (+ binary search)
+Jupiter Orbiter(J) - https://codeforces.com/gym/101170
+Maximum Islands(G) - https://codeforces.com/gym/101201
+Getting Confidence(G) - https://codeforces.com/gym/102346 (use log)
+Kill the Werewolf - https://vjudge.net/problem/UVALive-7896
+In Case of an Invasion, Please... (I) - https://codeforces.com/gym/102007 (+ binary search, Dijkstra)

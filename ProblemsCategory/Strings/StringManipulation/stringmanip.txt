@@ -1,1 +1,4 @@
 Runes(A) - https://codeforces.com/gym/100827
+Odd Palindrome(A) - https://codeforces.com/gym/101615
+House Lawn - https://codeforces.com/gym/101933/problem/H
+The Mirror of Galadriel - https://vjudge.net/problem/UVALive-6342

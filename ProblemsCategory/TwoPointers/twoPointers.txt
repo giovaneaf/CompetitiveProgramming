@@ -1,0 +1,2 @@
+Cameras(C) - https://codeforces.com/gym/101201
+Leveling Ground - https://vjudge.net/problem/UVALive-6915 (+ sparse table)

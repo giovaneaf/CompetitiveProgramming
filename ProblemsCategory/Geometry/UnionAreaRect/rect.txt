@@ -1,1 +1,3 @@
+Rectangles(F) - https://codeforces.com/gym/101982
 City Park(F) - https://codeforces.com/gym/100783 (+ Union Find)
+Forests in Danger(F) - https://codeforces.com/gym/102346

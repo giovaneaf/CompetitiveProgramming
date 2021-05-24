@@ -1,1 +1,6 @@
 Fight Against Monsters - https://codeforces.com/gym/102222/problem/H
+High Score(H) - https://codeforces.com/gym/101623
+Falling Apart(F) - https://codeforces.com/gym/101666
+The Glittering Caves of Aglarond - https://vjudge.net/problem/UVALive-6345
+Hotel Rewards - https://vjudge.net/problem/UVALive-7893
+Black and white stones - https://vjudge.net/problem/UVALive-6822

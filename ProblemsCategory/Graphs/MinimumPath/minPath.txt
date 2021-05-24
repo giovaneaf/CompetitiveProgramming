@@ -3,7 +3,13 @@ Wormhole(L) - https://codeforces.com/gym/100827
 Jogging - https://codeforces.com/gym/103081/problem/D
 Environment-Friendly Travel - https://codeforces.com/gym/102501/problem/A
 Flowery Trails(B) - https://codeforces.com/gym/100783
+Buggy Robot(B) - https://codeforces.com/gym/101201
+Detour(D) - https://codeforces.com/gym/101666
+Highway Decommission - https://www.urionlinejudge.com.br/judge/en/problems/origin/167
+Delivery Delays - https://codeforces.com/gym/101933/problem/D (+ binary search)
+Charles in Charge(E) - https://codeforces.com/gym/101490 (+ binary search)
 
 
 -----Sorted Floyd Warshall Version-----
-https://codeforces.com/gym/102222/problem/F
+Moving On - https://codeforces.com/gym/102222/problem/F
+Interplanetary(I) - https://codeforces.com/gym/102346

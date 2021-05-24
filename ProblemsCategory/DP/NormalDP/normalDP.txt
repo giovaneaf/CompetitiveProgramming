@@ -1,7 +1,0 @@
-Pushups(H) - https://codeforces.com/gym/100827
-Booming Business - https://open.kattis.com/problems/boomingbusiness
-Horror Film Night - https://open.kattis.com/problems/horrorfilmnight
-Ingredients(E) - https://codeforces.com/gym/101635
-Sheldon Numbers(H) - https://codeforces.com/gym/101128
-Wooden Signs(E) - https://codeforces.com/gym/101128
-The Safe Secret(I) - https://codeforces.com/gym/100783

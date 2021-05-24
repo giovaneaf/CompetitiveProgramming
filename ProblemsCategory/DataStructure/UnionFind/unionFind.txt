@@ -1,0 +1,3 @@
+Firetrucks Are Red(F) - https://codeforces.com/gym/102500
+Cluster Analysis - https://vjudge.net/problem/UVALive-6906
+Cutting Tree - https://vjudge.net/problem/UVALive-6910

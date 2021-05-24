@@ -1,0 +1,3 @@
+Farm robot - https://vjudge.net/problem/UVALive-7891
+Jar of Water Game(J) - https://codeforces.com/gym/102346
+Battle Simulation(B) - https://codeforces.com/gym/101490

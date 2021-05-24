@@ -1,0 +1,9 @@
+Repeating Goldbachs(H) - https://codeforces.com/gym/101982
+Expired License(E) - https://codeforces.com/gym/102021
+Collatz Conjecture(C) - https://codeforces.com/gym/101666
+Older Brother(I) - https://codeforces.com/gym/101490
+Jumping Frog - https://vjudge.net/problem/UVALive-8197
+Looking for the Risk Factor - https://www.urionlinejudge.com.br/judge/en/problems/origin/167 (+ interval query)
+
+-----Chinese Remainder Theorem-----
+Fantastic Beasts - https://www.urionlinejudge.com.br/judge/en/problems/origin/167

@@ -1,0 +1,6 @@
+Kayaking Trip(K) - https://codeforces.com/gym/101572
+It's Time for a Montage(I) - https://codeforces.com/gym/102021
+Straight Shot(E) - https://codeforces.com/gym/101615 (or Physics)
+Maratona Brasileira de Popcorn(M) - https://codeforces.com/gym/102346/
+Shopping(J) - https://codeforces.com/gym/101201 (+ sparse table)
+Financial Planning(F) - https://codeforces.com/gym/102007

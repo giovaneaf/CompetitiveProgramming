@@ -137,7 +137,7 @@ NOTE: The problems that are marked with yellow check mark will give Presentation
 
 -----Asia Jakarta 2013-----
 Link: https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=596
-NOTE: The problems that are marked with yellow check mark will give Presentation Error (PE) verdict, I dindn't another OJ to send the problem but I assume it's correct when I got PE at problem 87 (H)
+NOTE: The problems that are marked with yellow check mark will give Presentation Error (PE) verdict, I didn't another OJ to send the problem but I assume it's correct when I got PE at problem 87 (H)
 82 - Number Assignment(A)
 83 - The Busiest City(C)
 84 - Power Plant(E)
@@ -170,7 +170,7 @@ Link: https://codeforces.com/gym/101666
 
 -----BAPC 2018-----
 Link: https://codeforces.com/gym/102007
-**102 -  In Case of an Invasion, Please(I)
+**102 - In Case of an Invasion, Please(I)
 103 - Janitor Troubles(J)
 
 -----GCPC 2018-----

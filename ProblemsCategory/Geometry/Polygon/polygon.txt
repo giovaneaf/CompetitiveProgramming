@@ -1,5 +1,7 @@
 Icebergs - https://codeforces.com/gym/102501/problem/F
 Rolling The Polygon - https://codeforces.com/gym/102222/problem/B
+Dating On-Line - https://vjudge.net/problem/UVALive-7889 (+ greedy)
+Escape, Polygon! - https://www.urionlinejudge.com.br/judge/en/problems/origin/167 (+ combinatorics)
 
 -----Convex Hull-----
 Blowing Candles(K) - https://codeforces.com/gym/101635 (+ point inside hull)
