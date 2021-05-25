@@ -1,6 +1,7 @@
 Fight Against Monsters - https://codeforces.com/gym/102222/problem/H
 High Score(H) - https://codeforces.com/gym/101623
 Falling Apart(F) - https://codeforces.com/gym/101666
+Help The Support Lady - https://codeforces.com/gym/102219/problem/K
 War - https://www.spoj.com/problems/TAP2013G/
 Imposto Real - https://www.urionlinejudge.com.br/judge/en/problems/view/2666
 The Glittering Caves of Aglarond - https://vjudge.net/problem/UVALive-6345

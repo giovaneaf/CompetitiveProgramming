@@ -10,11 +10,9 @@ King's Colors - https://codeforces.com/gym/101933/problem/K (DP + modular multip
 -----FFT-----
 Golf Bot(C) - https://codeforces.com/gym/100783
 
------Fibonacci-----
-Fighting Monsters(F) - https://codeforces.com/gym/102021
-
 -----Matrix Exponentiation-----
 Teletransport - https://www.urionlinejudge.com.br/judge/en/problems/view/1713
+Fibonacci brain - https://www.spoj.com/problems/TSHOW2
 Buses - https://www.urionlinejudge.com.br/judge/en/problems/view/1474
 Keep Calm and Sell Balloons(K) - https://codeforces.com/gym/102346
 
@@ -28,6 +26,7 @@ River Game - https://codeforces.com/gym/102501/problem/L
 Game of Cards(G) - https://codeforces.com/gym/101128
 
 -----Number Theory-----
+Trial Division - https://www.spoj.com/problems/TRIALDIV/
 Dividers - https://www.urionlinejudge.com.br/judge/en/problems/view/2238
 Repeating Goldbachs(H) - https://codeforces.com/gym/101982
 Expired License(E) - https://codeforces.com/gym/102021

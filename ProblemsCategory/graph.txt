@@ -4,6 +4,7 @@ Body Building - https://vjudge.net/problem/UVALive-6907
 Tiles - https://www.urionlinejudge.com.br/judge/en/problems/view/2246 (flood fill)
 Letters - https://www.urionlinejudge.com.br/judge/en/problems/view/1714
 Boss - https://www.urionlinejudge.com.br/judge/en/problems/view/1469
+Bitmap - https://www.spoj.com/problems/BITMAP
 Intrepid climber - https://vjudge.net/problem/UVALive-6829
 King of the Waves(K) - https://codeforces.com/gym/101666
 The Busiest City - https://vjudge.net/problem/UVALive-6436
@@ -31,6 +32,7 @@ Moving On - https://codeforces.com/gym/102222/problem/F
 Interplanetary(I) - https://codeforces.com/gym/102346
 
 -----MST-----
+Airports - https://vjudge.net/problem/UVA-11733
 Power Plant - https://vjudge.net/problem/UVALive-6437
 
 -----SCC-----
@@ -38,12 +40,14 @@ Intelligence Infection - https://open.kattis.com/problems/intelligenceinfection
 Birdwatching - https://codeforces.com/gym/102501/problem/K
 
 -----LCA-----
+Ants Colony - https://vjudge.net/problem/UVA-12238
 Subway Lines(L) - https://codeforces.com/gym/101908
 Imperial roads - https://vjudge.net/problem/UVALive-8196 (+ MST)
 Trucks - https://www.urionlinejudge.com.br/judge/en/problems/view/1476 (+ maximum spanning tree)
 
 -----Max Flow-----
 Cops And Roobers(E) - https://codeforces.com/gym/101982
+Intergalactic Map - https://www.spoj.com/problems/IM
 Book Club(D) - https://codeforces.com/gym/100783 (Bipartite Matching)
 Error Correction(I) - https://codeforces.com/gym/102433 (Bipartite Matching)
 Gasoline(G) - https://codeforces.com/gym/101908 (Bipartite Matching)

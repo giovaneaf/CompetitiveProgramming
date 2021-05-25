@@ -4,6 +4,7 @@ Contest Setting(C) - https://codeforces.com/gym/101982
 Coolest Ski Route(C) - https://codeforces.com/gym/102021 (DAG)
 Ginástica - https://www.urionlinejudge.com.br/judge/en/problems/view/2664
 Alphabet(A) - https://codeforces.com/gym/101201
+Diamonds(O) - https://codeforces.com/gym/101653
 Bridge Automation(D) - https://codeforces.com/gym/101490
 Cheap Trips - https://www.urionlinejudge.com.br/judge/en/problems/origin/167
 Horror Film Night - https://open.kattis.com/problems/horrorfilmnight
@@ -23,6 +24,7 @@ Knockout Tournament (K) - https://codeforces.com/gym/101623 (+ probability)
 Sheldon Numbers(H) - https://codeforces.com/gym/101128
 SMS Championship - https://www.urionlinejudge.com.br/judge/en/problems/view/1458
 Disjoint water supply - https://vjudge.net/problem/UVALive-6528
+k-Tree - https://codeforces.com/problemset/problem/431/C
 Patches - https://www.urionlinejudge.com.br/judge/en/problems/view/1475
 Exposing corruption - https://vjudge.net/problem/UVALive-7207
 Installing Apps(I) - https://codeforces.com/gym/101623 (perfect ordering for DP)

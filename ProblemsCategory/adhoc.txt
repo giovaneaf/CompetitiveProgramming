@@ -1,4 +1,7 @@
 -----Easy-----
+Test 1 - https://www.spoj.com/problems/TESTINT
+XOR - https://www.spoj.com/problems/BSCXOR/
+Iterated sums - https://www.spoj.com/problems/SMPSUM
 Identifying tea - https://vjudge.net/problem/UVALive-7211
 Judging Moose(J) - https://codeforces.com/gym/101572
 Assigning Teams - https://vjudge.net/problem/UVALive-7886
@@ -10,6 +13,7 @@ Code Cleanups - https://codeforces.com/gym/101933/problem/C
 Mountain Ranges(M) - https://codeforces.com/gym/102428
 
 -----Easy/Medium-----
+Fighting Monsters(F) - https://codeforces.com/gym/102021
 A Symmetrical Pizza - https://www.urionlinejudge.com.br/judge/en/problems/origin/167 (becareful with floating point)
 Frosting on the Cake(J) - https://codeforces.com/gym/101635
 Jumbled String - https://codeforces.com/gym/101933/problem/J

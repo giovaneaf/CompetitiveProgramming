@@ -1,11 +1,17 @@
+Word Scramble - https://vjudge.net/problem/UVA-483
 Runes(A) - https://codeforces.com/gym/100827
 Odd Palindrome(A) - https://codeforces.com/gym/101615
 House Lawn - https://codeforces.com/gym/101933/problem/H
 The Mirror of Galadriel - https://vjudge.net/problem/UVALive-6342
 
 -----Suffix------
+Bacon’s Cipher - https://vjudge.net/problem/URAL-1590
 Unique Activities - https://codeforces.com/gym/103081/problem/K
 Gluing Pictures(G) - https://codeforces.com/gym/102428 (+ greedy)
+
+-----Matching-----
+A Needle in the Haystack - https://www.spoj.com/problems/NHAY
+Pattern Find - https://www.spoj.com/problems/NAJPF
 
 -----Hashing-----
 Pasti Pas! - https://vjudge.net/problem/UVALive-6439

@@ -5,6 +5,7 @@ Dunglish(D) - https://codeforces.com/gym/101623
 
 -----Segment Tree-----
 Man, Elephant and Mouse - https://www.urionlinejudge.com.br/judge/en/problems/view/1477
+Horrible Queries - https://www.spoj.com/problems/HORRIBLE
 Salary Inequity(I) - https://codeforces.com/gym/100827
 Fundraising - https://vjudge.net/problem/UVALive-8193
 Acordes Intergaláticos - https://www.urionlinejudge.com.br/judge/en/problems/view/2658
@@ -16,4 +17,5 @@ Cluster Analysis - https://vjudge.net/problem/UVALive-6906
 Cutting Tree - https://vjudge.net/problem/UVALive-6910
 
 -----Trie-----
+Search in the dictionary! - https://www.spoj.com/problems/DICT
 Designing T-Shirts - https://www.spoj.com/problems/TAP2012D

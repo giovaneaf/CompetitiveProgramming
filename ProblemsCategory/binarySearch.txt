@@ -1,3 +1,5 @@
+Binary search - https://www.spoj.com/problems/BSEARCH1 (straightforward binary search)
+Aggressive cows - https://www.spoj.com/problems/AGGRCOW
 Kayaking Trip(K) - https://codeforces.com/gym/101572
 It's Time for a Montage(I) - https://codeforces.com/gym/102021
 Straight Shot(E) - https://codeforces.com/gym/101615 (or Physics)
