@@ -39,7 +39,7 @@ Tvec p0;
 bool cmp (Tvec& a, Tvec& b)                    // sort by polar coordinate for convexHull (p0 is lowest y coordinate point)
 {
     ll cross = (a - p0)^(b - p0);
-    if(cross == 0LL) return a.distSqr(p0) > b.distSqr(p0);
+    if(cross == 0LL) return a.distSqr(p0) < b.distSqr(p0);
     return cross > 0LL;
 }
 
